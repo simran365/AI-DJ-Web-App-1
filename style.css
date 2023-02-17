@@ -1,0 +1,19 @@
+.heading 
+{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+}
+.note
+{
+    font-size: 15px;
+    color: rgb(233, 59, 59);
+}
+body 
+{
+    background-size: cover;
+}
+.song_name
+{
+    color: rgb(201, 31, 219);
+}
